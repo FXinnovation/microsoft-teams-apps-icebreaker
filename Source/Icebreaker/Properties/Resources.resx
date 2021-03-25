@@ -222,19 +222,19 @@
     <comment>This is the tour content page title text</comment>
   </data>
   <data name="TourMatchesBodyText" xml:space="preserve">
-    <value>Mettez les jumelages en pause chaque fois que vous en avez besoin. Trop occupé cette semaine? En dehors du bureau? Aucun problème. Cliquez simplement sur le bouton à tout moment. / *Pause matches whenever you need. Too busy that week? Out of the office? No problem. Just click the button at anytime.*</value>
+    <value>Mettez les jumelages en pause chaque fois que vous en avez besoin. Trop occupé cette semaine? En dehors du bureau? Aucun problème. Cliquez simplement sur le bouton à tout moment. / Pause matches whenever you need. Too busy that week? Out of the office? No problem. Just click the button at anytime.</value>
     <comment>This is the tour match task module body text</comment>
   </data>
   <data name="TourMatchesHeaderText" xml:space="preserve">
-    <value>Mettez facilement les jumelages en pause au besoin / *Easily pause matches as needed*</value>
+    <value>Mettez facilement les jumelages en pause au besoin / Easily pause matches as needed</value>
     <comment>This is the tour match task module header text</comment>
   </data>
   <data name="TourWelcomeBodyText" xml:space="preserve">
-    <value>Chaque semaine, je vous jumelle avec quelqu'un de nouveau. Si vous en avez envie cette semaine-là, vous pouvez vous rencontrer - prendre un café ou tenir un appel si vous êtes à différents endroits. Soyez attentifs à un autre message dans lequel je vais vous jumeler une première fois. / *Every week, I'll pair you with someone new. If you have the inclination that week, you can meet up--grab a lunch, or a call if you're in different locations. Look out for another message in which I'll pair you with your first match.*</value>
+    <value>Chaque semaine, je vous jumelle avec quelqu'un de nouveau. Si vous en avez envie cette semaine-là, vous pouvez vous rencontrer - prendre un café ou tenir un appel si vous êtes à différents endroits. Soyez attentifs à un autre message dans lequel je vais vous jumeler une première fois. / Every week, I'll pair you with someone new. If you have the inclination that week, you can meet up--grab a lunch, or a call if you're in different locations. Look out for another message in which I'll pair you with your first match.</value>
     <comment>This is the tour welcome body text</comment>
   </data>
   <data name="TourWelcomeHeaderText" xml:space="preserve">
-    <value>Faites-vous de nouveaux amis et tissez des liens avec eux / *Make new friends and build community with them*</value>
+    <value>Faites-vous de nouveaux amis et tissez des liens avec eux / Make new friends and build community with them</value>
     <comment>This is the tour welcome header text</comment>
   </data>
   <data name="TourWelcomeImageAltText" xml:space="preserve">
